@@ -1,0 +1,5 @@
+This lesson covered writing your own functions! We discussed how you can write functions
+that require no input (no arguments) and how you can write functions that require input
+(require arguments) in order to efficiently reuse code. Functions really do help us reduce 
+the amount of code needed in a program and give us quite a bit of flexibility in applying
+common steps throughout the program. Take a look at the examples in this repository.
