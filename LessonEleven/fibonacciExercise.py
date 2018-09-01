@@ -1,3 +1,8 @@
+"""Write a program that displays the first 10 Fibonacci numbers 
+using lists and a for loop. Display those numbers in a more
+readable way for people using join.
+"""
+
 #Make a list with 10 spots
 numbers = [0]*10
 
