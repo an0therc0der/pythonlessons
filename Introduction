@@ -1,33 +1,36 @@
 The documents and code within this repository are intended for student use. They will cover basic material for learning python. 
-The code posted here will be publicly available for anyone wishing to learn python but is intended for those following a curriculum with 
-an instructor.
+The code posted here will be publicly available for anyone wishing to learn python but is intended for those following a curriculum 
+with an instructor.
 
 Recommendations for getting started:
-  1) If you are not a native Linux user, then I highly recommend downloading virtualization software and a Ubuntu ISO (see bottom of file).
-  While this step may cause some additional frustration towards the beginning of learning, it will ultimately reap great benefits for the 
-  student. Linux systems are well suited to development and often have many advantages over Windows systems. Please note that I am not 
-  recommending that you use ONLY Linux distros to write code; you should have access to multiple operating systems (physical or virtual) 
-  in order to test OS specific code (e.g. testing a registry script for Windows doesn't quite work on Linux....). 
+  1) If you are not a native Linux user, then I highly recommend downloading virtualization software and a Ubuntu ISO (see bottom 
+  of file). While this step may cause some additional frustration towards the beginning of learning, it will ultimately reap great 
+  benefits for the student. Linux systems are well suited to development and often have many advantages over Windows systems. 
+  Please note that I am not recommending that you use ONLY Linux distros to write code; you should have access to multiple 
+  operating systems (physical or virtual) in order to test OS specific code (e.g. testing a registry script for Windows doesn't 
+  quite work on Linux....). 
   
   2) Explore a few different text editors. There are a considerable number of text editors and IDEs available for every OS today. 
-  I recommend trying out at least two or three per OS to see which ones you prefer. I would suggest avoiding IDEs when you first start, 
-  however, as these can sometimes overwhelm beginners with suggestions and often provide too much help instead of allowing students
-  to truly understand and solve coding problems themselves. For Linux, I recommend using Nano or VIM. For Windows, 
+  I recommend trying out at least two or three per OS to see which ones you prefer. I would suggest avoiding IDEs when you first 
+  start, however, as these can sometimes overwhelm beginners with suggestions and often provide too much help instead of allowing 
+  students to truly understand and solve coding problems themselves. For Linux, I recommend using Nano or VIM. For Windows, 
   I recommend using Sublime Text or IDLE (typically comes with the installation of python).
   
-  3) Do all the exercises and experiment with changing code on your own. A significant portion of learning to code involves learning how 
-  to ask the right question and exploring alternative solutions to problems you have already solved. There is very, very rarely only one 
-  way to solve a problem in python: see if you can find two or three solutions to each exercise or demonstration on your own. 
-  Learning how to research coding problems and distinguish between good and bad advice is key to becoming a good programmer.
+  3) Do all the exercises and experiment with changing code on your own. A significant portion of learning to code involves 
+  learning how to ask the right question and exploring alternative solutions to problems you have already solved. There is very, 
+  very rarely only one way to solve a problem in python: see if you can find two or three solutions to each exercise or 
+  demonstration on your own. Learning how to research coding problems and distinguish between good and bad advice is key to 
+  becoming a good programmer.
   
   4) Be consistent. It may be hard but try to put in consistent time and effort during your studies of python. 
-  Everyone has a unique schedule and each student learns differently than others. Take your time but be dedicated to your own learning. 
-  Some problems or concepts may frustrate you, but that is only natural when learning any subject. If you have to, walk away from a problem
-  and let your mind reset. When you come back to the problem, you may find that it was not as difficult as you previously thought. 
+  Everyone has a unique schedule and each student learns differently than others. Take your time but be dedicated to your own 
+  learning. Some problems or concepts may frustrate you, but that is only natural when learning any subject. If you have to, walk 
+  away from a problem and let your mind reset. When you come back to the problem, you may find that it was not as difficult as you 
+  previously thought. 
   
   5) Think of how you can apply python to your everyday life and have fun!
   
-  
+  Main Site for Lessons: https://anothercoder.org
   Virtualization Software: https://www.virtualbox.org/
   Ubuntu Image: https://www.ubuntu.com/download
   Python: https://www.python.org/downloads/   (Recommend version 3.7.x or newer for those just starting out)
