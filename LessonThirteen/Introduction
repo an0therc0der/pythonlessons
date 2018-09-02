@@ -1,0 +1,4 @@
+This lesson covered file IO. We discussed how to open, read, write, and close files in python. 
+We also discussed how you could read and write from and to the same file without having
+to create another file handle. These skills are important for creating persistent data
+for a user.
